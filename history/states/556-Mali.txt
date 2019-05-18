@@ -1,0 +1,25 @@
+
+state={
+	id=556
+	name="STATE_556"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = MLI
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1897 1962 2044 7930 10725 10771 10788 12838 
+	}
+	manpower=3000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

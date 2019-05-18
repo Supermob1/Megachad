@@ -1,0 +1,21 @@
+state={
+	id=806
+	name="STATE_806"
+	
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+
+		}
+
+	}
+	
+	provinces={
+		6864 9887 9799
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

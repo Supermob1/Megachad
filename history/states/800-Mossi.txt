@@ -1,0 +1,22 @@
+
+state={
+	id=800
+	name="STATE_800"
+
+	history={
+		owner = MOS
+		add_core_of = MOS
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		7954 8071 10836 12851 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

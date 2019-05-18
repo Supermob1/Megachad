@@ -1,0 +1,21 @@
+state={
+	id=790
+	name="STATE_790"
+
+	history={
+		owner = TUA
+		add_core_of = TUA
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+	
+	provinces={
+		5012 7943 8035 10779 10838 13210 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

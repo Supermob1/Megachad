@@ -1,0 +1,21 @@
+state={
+	id=804
+	name="STATE_804"
+	
+	history={
+		owner = SNG
+		add_core_of = SNG
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+
+	provinces={
+		2068 7939 8028 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

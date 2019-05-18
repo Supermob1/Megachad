@@ -1,0 +1,21 @@
+state={
+	id=793
+	name="STATE_793"
+
+	history={
+		owner = FUR
+		add_core_of = FUR
+		buildings = {
+			infrastructure = 7
+
+		}
+
+	}
+
+	provinces={
+		1473 1960 3181 4897 4978 7919 
+	}
+	manpower=72456
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

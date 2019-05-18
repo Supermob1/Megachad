@@ -1,0 +1,21 @@
+state={
+	id=799
+	name="STATE_799"
+	
+	history={
+		owner = MLI
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 6
+
+		}
+
+	}
+	
+	provinces={
+		1909 4957 8008 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

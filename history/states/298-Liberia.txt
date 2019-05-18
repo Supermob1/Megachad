@@ -1,0 +1,26 @@
+
+state={
+	id=298
+	name="STATE_298"
+	resources={
+		rubber=6.000
+	}
+
+	history={
+		owner = BAU
+		add_core_of = BAU
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		8006 
+	}
+	manpower=700000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

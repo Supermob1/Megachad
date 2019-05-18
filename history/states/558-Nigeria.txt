@@ -1,0 +1,24 @@
+
+state={
+	id=558
+	name="STATE_558"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1932 1992 2025 4889 4938 4952 4997 5028 7978 8021 8034 8109 10820 10831 12817 12900 
+	}
+	manpower=17000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

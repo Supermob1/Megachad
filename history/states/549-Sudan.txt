@@ -1,0 +1,22 @@
+
+state={
+	id=549
+	name="STATE_549"
+
+	history={
+		owner = EGY
+		add_core_of = EGY
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		1914 2016 2096 4918 7996 8084 10795 10827 10851 10859 10877 12744 12800 12887 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

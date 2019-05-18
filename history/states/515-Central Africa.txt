@@ -1,0 +1,22 @@
+
+state={
+	id=515
+	name="STATE_515"
+
+	history={
+		owner = SNG
+		add_core_of = SNG
+		buildings = {
+			infrastructure = 7
+
+		}
+
+	}
+
+	provinces={
+		1956 10758 10917 
+	}
+	manpower=482744
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

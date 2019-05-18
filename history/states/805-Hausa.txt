@@ -1,0 +1,22 @@
+state={
+	id=805
+	name="STATE_805"
+	
+	history={
+		owner = SNG
+		add_core_of = SNG
+		buildings = {
+			infrastructure = 6
+			arms_factory = 1
+
+		}
+
+	}
+	
+	provinces={
+		1891 1969 4972 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

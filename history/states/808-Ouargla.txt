@@ -1,0 +1,21 @@
+state={
+	id=808
+	name="STATE_808"
+	
+	history={
+		owner = LBA
+		add_core_of = LBA
+		buildings = {
+			infrastructure = 8
+
+		}
+
+	}
+	
+	provinces={
+		1043 1901 2049 4903 5035 12711 12842 
+	}
+	manpower=411486
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
